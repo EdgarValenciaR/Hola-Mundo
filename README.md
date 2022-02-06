@@ -1,5 +1,5 @@
 # Hola-Mundo
-Mi primer repositorio de prueba.
+Mi primer repositorio.
 
-Autor: Edgar Elvis Valencia Rosas.
+Autor: Edgar Elvis Valencia.
 Fecha: 5 de Febrero.
